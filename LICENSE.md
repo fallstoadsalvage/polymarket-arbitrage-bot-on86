@@ -1,4 +1,4 @@
-# 
+# custom Polymarket Plugin | real-time-market-analysis + stop-loss-management offers the most advanced Polymarket plugin, with real-time-market-analysis and stop-loss-management.
 
 
 
